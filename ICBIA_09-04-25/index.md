@@ -262,7 +262,7 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 - [Grupo de energía Solar Ing UNRC](https://www.ing.unrc.edu.ar/grupos/ges/)
 - [Emprendé ConCiencia (Fundación INVAP)](https://www.emprendeconciencia.org.ar)
 - [Semana de la ciencia (C. Motta)](https://daniel.bellomo.ar/LLRCC/FAV-poster_semana_ciencia_2025.pdf)
-- Ing. en Telecomunicacies (Practicas Profesionales Supervisadas)
+- Ing. en Telecomunicacies (Prácticas Profesionales Supervisadas)
 
 
 
