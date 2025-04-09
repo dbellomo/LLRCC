@@ -280,13 +280,14 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 
 # Vinculaciones con otras Instituciones 
 
+- [AlterMundi (Jesica Giudice)](https://altermundi.net)
 - [Vivero municipal de Alpa Corral (Natalia De Luca)](https://tierraunidaactiva.github.io/fotos/20240809_practicas_relevamiento_vegetacion.html)
 - Univ. Nac. de San Luis (Alicia Molina)
 - UBA antropología (Augusto Nuñez)
 - Instituto Balseiro (Laila Kazimierski)
 - Univ. Politécnica de Valencia (Pietro Manzoni)
 - UBA Ing (Ignacio Hamelin)
-- Humanitarian OpenStreetMap Team (Celine Jacquin, Emilio Mariscal)
+- [Humanitarian OpenStreetMap Team (Celine Jacquin, Emilio Mariscal)](https://hotosm.org)
 - guifi-net (Ramon Roca)
 - ...
 
