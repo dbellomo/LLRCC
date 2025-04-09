@@ -26,7 +26,7 @@
 
 # Conectividad desde los territorios
 
-by **AlterMundi**
+by [AlterMundi](https://altermundi.net)
 
 ### [serie de videos](https://www.youtube.com/watch?v=wMzQRt8HSJA&list=PL_Dpv4cu0bAq25HebGt6rDTz8wT3er_Oh)
 
@@ -49,6 +49,8 @@ by **AlterMundi**
 # Las Guindas
 
 ![](img/las_guindas.png)
+
+Universidad Nacional de Río Cuarto
 
 
 
