@@ -257,16 +257,18 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 # 2025
 
 - [Desafía a tu Universidad (CyT UNRC)](https://www.unrc.edu.ar/unrc/cienciaytecnica/desafiaatuuni.php)
-- Grupo de energía Solar Ing
+- [Grupo de energía Solar Ing UNRC](https://www.ing.unrc.edu.ar/grupos/ges/)
 - [Emprendé ConCiencia (Fundación INVAP)](https://www.emprendeconciencia.org.ar)
 - [Semana de la ciencia (C. Motta)](https://daniel.bellomo.ar/LLRCC/FAV-poster_semana_ciencia_2025.pdf)
-- Ing. en Telecomunicacies (PPS) 
+- Ing. en Telecomunicacies (Practicas Profesionales Supervisadas)
 
 
 
 # Radioaficionados
 
 ![](img/repe_VHF.jpeg)
+
+repetidora VHF
 
 
 
