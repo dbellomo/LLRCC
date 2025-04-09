@@ -226,6 +226,21 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
+# 
+
+- Programa para contingencias ante desastres naturales y mitigar los efectos del cambio climático en el paraje Las Lagunitas. (2023). Dir. Dr. José Raviolo (FAV)
+- Red Comunitaria de internet rural. (2022). Dir. Dr. Lucio Pinotti (exactas)
+- Red comunitaria de internet rural (2022). Dir. Carlos Rang (FAV)
+
+
+
+# 
+
+- Fortalecimiento de procesos de soberanía tecnológica y prácticas contributivas en el marco de la red comunitaria y científica de internet en el paraje Las Lagunitas y zonas aledañas (2024). Dir. Dra. Aldana D'Andrea (humanas)
+- Caracterización epidemiológica de zoonosis parasitarias en caninos en zonas rurales de la región de las Sierra de los Comechingones, Dir. Dr. Carlos Motta (PPI)
+
+
+
 #
 
 ![](img/PPS_gianni.png)
