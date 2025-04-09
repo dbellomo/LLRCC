@@ -20,7 +20,7 @@
 - Paraje Las Lagunitas
 - La región: Cerro Colorado, Lutti, ...
 
-[el territorio](https://www.google.com/maps/d/u/0/embed?mid=1DnphT7VtOn-qKiffymB7TvGvUrhlbkg&ehbc=2E312F&ll=-32.59055739999999%2C-64.7146425&z=17)
+### [el territorio](https://www.google.com/maps/d/u/0/embed?mid=1DnphT7VtOn-qKiffymB7TvGvUrhlbkg&ehbc=2E312F&ll=-32.59055739999999%2C-64.7146425&z=17)
 
 
 
@@ -28,7 +28,7 @@
 
 by **AlterMundi**
 
-[serie de videos](https://www.youtube.com/watch?v=wMzQRt8HSJA&list=PL_Dpv4cu0bAq25HebGt6rDTz8wT3er_Oh)
+### [serie de videos](https://www.youtube.com/watch?v=wMzQRt8HSJA&list=PL_Dpv4cu0bAq25HebGt6rDTz8wT3er_Oh)
 
 
 
@@ -95,6 +95,18 @@ construido mediante muchos años de trabajo de la Universidad en el territorio
 
 
 
+# 
+
+![](img/DSC00743.JPG)
+
+
+
+#
+
+![](img/DSC00756.JPG)
+
+
+
 # Familias del paraje 
 
 Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonzalo, Patricio, Ale, Domingo, Eulalia, Julio, Maricel, Diego, Kika ...
@@ -106,12 +118,6 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 # 
 
 ![](img/hogar_1.jpeg)
-
-
-
-# 
-
-![](img/hogar_3.jpeg)
 
 
 
