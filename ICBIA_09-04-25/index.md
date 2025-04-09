@@ -229,8 +229,8 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 # 
 
 - Programa para contingencias ante desastres naturales y mitigar los efectos del cambio climático en el paraje Las Lagunitas. (2023). Dir. Dr. José Raviolo (FAV)
-- Red Comunitaria de internet rural. (2022). Dir. Dr. Lucio Pinotti (exactas)
-- Red comunitaria de internet rural (2022). Dir. Carlos Rang (FAV)
+- Red Comunitaria de internet rural. (2022). Dir. Dr. Lucio Pinotti (exactas) (extensión)
+- Red comunitaria de internet rural (2022). Dir. Carlos Rang (FAV) (voluntariado universitario)
 
 
 
