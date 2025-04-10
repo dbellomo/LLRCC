@@ -297,7 +297,7 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 
 
 
-# Vinculaciones con otras Instituciones 
+# Vinculaciones 
 
 - [AlterMundi (Jesica Giudice)](https://altermundi.net)
 - [Vivero municipal de Alpa Corral (Natalia De Luca)](https://tierraunidaactiva.github.io/fotos/20240809_practicas_relevamiento_vegetacion.html)
