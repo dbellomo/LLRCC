@@ -271,6 +271,18 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
+# 
+
+![](img/simulacro_incendio.png)
+
+
+
+#
+
+![](img/foto_grupal_simulacro_incendio.jpeg)
+
+
+
 # 2025
 
 - [Desafía a tu Universidad (CyT UNRC)](https://www.unrc.edu.ar/unrc/cienciaytecnica/desafiaatuuni.php)
