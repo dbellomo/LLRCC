@@ -324,3 +324,5 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 
 # ¡Muchas Gracias!
 
+![](img/flia_nievas.jpeg)
+
