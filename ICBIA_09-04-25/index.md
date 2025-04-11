@@ -201,7 +201,7 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 # Bomberos voluntarios
 
 - detección temprana de incendios
-- mapeo
+- mapeo humanitario colaborativo
 - [taller de mapeo y simulacro](https://www.hotosm.org/updates/on-the-front-line-of-climate-change-end-to-end-open-mapping-tech-for-wildfires/)
 
 
