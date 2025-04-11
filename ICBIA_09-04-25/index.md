@@ -62,6 +62,9 @@ construido mediante muchos años de trabajo de la Universidad en el territorio
 - Nano D'eramo (Geología)
 - Pepe Alonso (FAV)
 - Fabián Zabala (FAV)
+- Turco Sabanés (FAV)
+- Torito Rang (FAV)
+- ...
 
 
 
@@ -234,13 +237,6 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 
 
 
-# 
-
-- Fortalecimiento de procesos de soberanía tecnológica y prácticas contributivas en el marco de la red comunitaria y científica de internet en el paraje Las Lagunitas y zonas aledañas (2024). Dir. Dra. Aldana D'Andrea (humanas)
-- Caracterización epidemiológica de zoonosis parasitarias en caninos en zonas rurales de la región de las Sierra de los Comechingones, Dir. Dr. Carlos Motta (PPI)
-
-
-
 #
 
 ![](img/PPS_gianni.png)
@@ -290,6 +286,15 @@ Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonza
 - [Emprendé ConCiencia (Fundación INVAP)](https://www.emprendeconciencia.org.ar)
 - [Semana de la ciencia (C. Motta)](https://daniel.bellomo.ar/LLRCC/FAV-poster_semana_ciencia_2025.pdf)
 - Ing. en Telecomunicacies (Prácticas Profesionales Supervisadas)
+- [Meshtastic (D. Forchetti)](https://meshtastic.org/)
+- [mapeo humanitario colaborativo (HOT)](https://www.hotosm.org)
+
+
+
+#
+
+- Fortalecimiento de procesos de soberanía tecnológica y prácticas contributivas en el marco de la red comunitaria y científica de internet en el paraje Las Lagunitas y zonas aledañas (2024). Dir. Dra. Aldana D'Andrea (Fac. humanas, proy. de ext)
+- Caracterización epidemiológica de zoonosis parasitarias en caninos en zonas rurales de la región de las Sierra de los Comechingones, Dir. Dr. Carlos Motta (PPI)
 
 
 
