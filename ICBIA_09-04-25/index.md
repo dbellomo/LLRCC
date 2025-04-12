@@ -19,6 +19,7 @@
 - Campo Las Guindas (UNRC)
 - Paraje Las Lagunitas
 - La región: Cerro Colorado, Lutti, ...
+<br /><br />
 
 ### [el territorio](https://www.google.com/maps/d/u/0/embed?mid=1DnphT7VtOn-qKiffymB7TvGvUrhlbkg&ehbc=2E312F&ll=-32.59055739999999%2C-64.7146425&z=17)
 
