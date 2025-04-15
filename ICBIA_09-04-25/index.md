@@ -117,8 +117,7 @@ construido mediante muchos años de trabajo de la Universidad en el territorio
 
 Walter, Fabian, Joaquin, Noelia, Martina, Franco, Martin, Luciana, Gladys, Gonzalo, Patricio, Ale, Domingo, Eulalia, Julio, Maricel, Diego, Kika ...
 
-(videos) 
-
+![](img/flias.png)
 
 
 # 
